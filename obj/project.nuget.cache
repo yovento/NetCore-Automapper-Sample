@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "JSFf5XTNsc/5M4J/BTId3RDR4VeDPfCOdt3lXl1UuUAFijoy6Z73CowrVW/aBDb0yNe0zW7cEV4XQb9zaBwmyw==",
+  "success": true,
+  "projectFilePath": "/Users/yovento/Developer/DOTNET/DTO-Automapper-Template/DTO-Automapper-Template.csproj",
+  "expectedPackageFiles": [
+    "/Users/yovento/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
+    "/Users/yovento/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "/Users/yovento/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/Users/yovento/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.0.0/microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "/Users/yovento/.nuget/packages/microsoft.extensions.options/3.0.0/microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "/Users/yovento/.nuget/packages/microsoft.extensions.primitives/3.0.0/microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "/Users/yovento/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
